@@ -1,0 +1,1 @@
+This directory creates a program by which you can enter the cost of a meal, the tax percentage, and the tip percentage to calculate how much you should tip.
